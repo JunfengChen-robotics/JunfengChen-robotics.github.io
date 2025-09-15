@@ -34,6 +34,6 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Contact
 
-MAIL: JunfengChen@pku.edu.cn  
+MAIL: JunfengChen@stu.pku.edu.cn  
 WeChat: 15501057988  
 Mobile: +86 15501057988
